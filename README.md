@@ -12,3 +12,5 @@
     5. 모델 설계 (시계열 분석에 특화된 최신 모델 ARIMA, LightGBM, RNN 등)
     6. 모델 Evaluate 결과 공유 및 피드백 → 최종 모델 선정
     7. 발표 자료 작성 (시계열 분석에 대한 내용도 앞에 넣기!)
+    
+6. [프로젝트 일정](https://www.notion.so/414eafb45efc439090c819926dbf0d22?v=448ec53e0a424a73bd7ab6e4aa5a627b)
