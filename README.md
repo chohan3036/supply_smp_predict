@@ -14,3 +14,8 @@
     7. 발표 자료 작성 (시계열 분석에 대한 내용도 앞에 넣기!)
     
 6. [프로젝트 일정](https://www.notion.so/414eafb45efc439090c819926dbf0d22?v=448ec53e0a424a73bd7ab6e4aa5a627b)
+
+[**supply_smp.ipnyb**](https://github.com/chohan3036/supply_smp_predict/blob/master/supply_smp.ipynb) : 프로젝트 결과
+
+*주의! 노트북에 포함된 내용이 길어 정상적으로 열리지 않을 수 있습니다. Reload 하면 정상적으로 로드됩니다.*
+
